@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">LocationNotes</string>
+    <string name="title_activity_second_screen">SecondScreen</string>
+    <string name="title_activity_map">Map</string>
+    <string name="locationlist">List of Locations</string>
+    <string name="title_activity_help">HelpActivity</string>
+
+
+        <string name="title_activity_welcome">Home Screen</string>
+        <string name="next">NEXT</string>
+        <string name="skip">SKIP</string>
+        <string name="start">GOT IT</string>
+
+
+        <string name="slide_1_desc">App helps to set reminders for ToDo list for locations saved by user.</string>
+
+        <string name="slide_2_title">Add Locations</string>
+        <string name="slide_2_desc">Add each location with name and drag to respective place on map.</string>
+
+        <string name="slide_3_title">View Location List</string>
+        <string name="slide_3_desc">View list of locations which are created on Map.Create Add ToDo list for each location.</string>
+
+        <string name="slide_4_title">Add ToDo List</string>
+        <string name="slide_4_desc">Make detail ToDo List for selected Location.\n You will be notified when you enter saved location.</string>
+
+    <string name="slide_5_title">Get Notification</string>
+    <string name="slide_5_desc">Get Notifications for saved location to complete all your ToDo list in more smarter way now!. </string>
+
+
+</resources>
